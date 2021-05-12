@@ -1,0 +1,25 @@
+{
+  "name": "ng-unsubscribe-on-destroy",
+  "version": "0.0.0",
+  "description": "Angular 2+ property decorator that unsubscribes from an observable on component/directive/pipe destruction",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "ngOnDestroy",
+    "observables",
+    "rxjs",
+    "unsubscribe"
+  ],
+  "author": "Maksym Kobieliev",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
